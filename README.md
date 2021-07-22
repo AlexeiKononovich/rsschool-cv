@@ -1,2 +1,2 @@
-https://AlexeiKononovich.github.io/rsschool-cv/cv
-https://AlexeiKononovich.github.io/rsschool-cv/
+1. https://AlexeiKononovich.github.io/rsschool-cv/cv
+2. https://AlexeiKononovich.github.io/rsschool-cv/
